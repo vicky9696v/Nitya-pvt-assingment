@@ -1,0 +1,56 @@
+.button {
+    color: blue;
+    background: transparent;
+    border: transparent;
+    
+}
+
+.form-class {
+    height: 50%;
+    width: 60%;
+    justify-content: flex-start;
+    padding: 5px;
+    margin: 5px;
+}
+
+.input-box {
+    height: 40px;
+    width: 290px;
+    border: 1px solid;
+    border-radius: 5px;
+
+
+}
+
+.button-class {
+    height: 40px;
+    width:150px;
+    margin-top: 10px;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+.close-button {
+    width: 123px;
+    font-size: 16px;
+   
+}
+.table-input {
+    width: 30px;
+    border: transparent;
+    outline: none;
+    background: transparent;
+}
+
+
+
+.table-name-input {
+    width: 150px;
+    border: transparent;
+    outline: none;
+    background: transparent;
+}
+
+.table-set {
+    width: 100px
+}
